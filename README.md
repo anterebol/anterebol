@@ -17,18 +17,21 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 
 ### Sertificates
 <p align="left">
-  <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="300" style="padding: 15" padding="15"   
-     height="220" alt="JavaScript certificate" />
+  <a width="250"
+     height="200" href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="220"
+     height="180" alt="JavaScript certificate" />
   </a>
-  <a href="https://app.rs.school/certificate/ovr57327" target="_blank" rel="noreferrer">
+  <a width="250"
+     height="200" href="https://app.rs.school/certificate/ovr57327" target="_blank" rel="noreferrer">
     <img src="https://sun9-18.userapi.com/impg/1Ikrj5UpgPQ7m_GzCZ4KHnj-NnQagePMBt46Qg/JdNDtSoYqMY.jpg?size=1139x800&quality=95&sign=0573cea807ffb0fbde41c3d3c93d2b94&type=album" class="sertificate-link"  
-         width="300"     
-     height="220"
+         width="220"
+     height="180"
          alt="React certificate" />
   </a>
-  <a href="https://app.rs.school/certificate/o3h851ay" target="_blank" rel="noreferrer">
-    <img src="https://sun9-55.userapi.com/impg/tlYYsadFTBtpFpRS2id1VAZLkcKD_uJzIWcw7A/eKcYfwQ1Dew.jpg?size=1140x797&quality=95&sign=4b6779542d4e721acbc4cd27d410a966&type=album" class="sertificate-link" width="300"     
-     height="220" alt="NodeJs certificate" />
+  <a width="250"
+     height="200" href="https://app.rs.school/certificate/o3h851ay" target="_blank" rel="noreferrer">
+    <img src="https://sun9-55.userapi.com/impg/tlYYsadFTBtpFpRS2id1VAZLkcKD_uJzIWcw7A/eKcYfwQ1Dew.jpg?size=1140x797&quality=95&sign=4b6779542d4e721acbc4cd27d410a966&type=album" class="sertificate-link" width="220"
+     height="180" alt="NodeJs certificate" />
   </a>
 </p>
 
