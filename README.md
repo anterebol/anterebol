@@ -16,7 +16,7 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 
 ### Sertificates
 <p align="left">
-  <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="300"     
+  <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="300" style="padding: 15" padding="15"   
      height="220" alt="JavaScript certificate" />
   </a>
   <a href="https://app.rs.school/certificate/ovr57327" target="_blank" rel="noreferrer">
@@ -43,5 +43,5 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 
 <style>
   .sertificate-link {
-    padding: 15px;
+    padding: 15;
 </style>
