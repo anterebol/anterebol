@@ -43,5 +43,6 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 
 <style>
   .sertificate-link {
-    padding: 15;
+    padding: 15px;
+  }
 </style>
