@@ -16,9 +16,22 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 
 ### Sertificates
 <p align="left">
-  <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" style="padding: 15px;"  width="150" height="100" alt="JavaScript certificate" /></a>
-  <a href="https://app.rs.school/certificate/ovr57327" target="_blank" rel="noreferrer"><img src="https://sun9-18.userapi.com/impg/1Ikrj5UpgPQ7m_GzCZ4KHnj-NnQagePMBt46Qg/JdNDtSoYqMY.jpg?size=1139x800&quality=95&sign=0573cea807ffb0fbde41c3d3c93d2b94&type=album"  width="150" height="100" style="padding: 15px;"  alt="JavaScript certificate" /></a>
-  <a href="https://app.rs.school/certificate/o3h851ay" target="_blank" rel="noreferrer"><img src="https://sun9-55.userapi.com/impg/tlYYsadFTBtpFpRS2id1VAZLkcKD_uJzIWcw7A/eKcYfwQ1Dew.jpg?size=1140x797&quality=95&sign=4b6779542d4e721acbc4cd27d410a966&type=album" style="padding: 15px;" width="150" height="100" alt="JavaScript certificate" /></a>
+  <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9- 
+     45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg? 
+     size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="150"     
+     height="100" alt="JavaScript certificate" />
+  </a>
+  <a href="https://app.rs.school/certificate/ovr57327" target="_blank" rel="noreferrer">
+    <img src="https://sun9-18.userapi.com/impg/1Ikrj5UpgPQ7m_GzCZ4KHnj-NnQagePMBt46Qg/JdNDtSoYqMY.jpg?      
+         size=1139x800&quality=95&sign=0573cea807ffb0fbde41c3d3c93d2b94&type=album" class="sertificate-link"  
+         width="150" height="100"  
+         alt="JavaScript certificate" />
+  </a>
+  <a href="https://app.rs.school/certificate/o3h851ay" target="_blank" rel="noreferrer">
+    <img src="https://sun9-55.userapi.com/impg/tlYYsadFTBtpFpRS2id1VAZLkcKD_uJzIWcw7A/eKcYfwQ1Dew.jpg? 
+         size=1140x797&quality=95&sign=4b6779542d4e721acbc4cd27d410a966&type=album" class="sertificate-link" width="150" 
+         height="100" alt="JavaScript certificate" />
+  </a>
 </p>
 
 ### Skills
@@ -30,3 +43,8 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/anterebol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/alex_festern/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aleksey-gorbach-221854212/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+<style>
+  .sertificate-link {
+    padding: 15px;
+</style>
