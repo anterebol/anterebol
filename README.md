@@ -13,6 +13,7 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 * 🖥️  See my portfolio at [CV](http://my-cv-aleksey-gorbach.netlify.app/)
 * ✉️  You can contact me at [anterebol@gmail.com](mailto:anterebol@gmail.com)
 * 🚀  I'm currently working on [My own Blog](http://festern-blog.netlify.app/main)
+* ⚡  Some interesting fact: I have experience hitchhiking and have visited 13 countries this way
 
 ### Sertificates
 <p align="left">
