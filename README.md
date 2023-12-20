@@ -15,7 +15,8 @@ I'm currently looking for a job as a Junior Frontend Developer if you have some 
 * 🚀  I'm currently working on [My own Blog](http://festern-blog.netlify.app/main)
 * ⚡  Some interesting fact: I have experience hitchhiking and have visited 13 countries this way
 
-[![codewars](https://www.codewars.com/users/Aleksey_Gorbach/badges/large)](https://www.codewars.com/users/Aleksey_Gorbach) 
+[![codewars](https://www.codewars.com/users/Aleksey_Gorbach/badges/large
+)](https://www.codewars.com/users/Aleksey_Gorbach) 
 ### Sertificates
 <p align="left">
   <a href="https://app.rs.school/certificate/bda9ab9w" target="_blank" rel="noreferrer"><img src="https://sun9-45.userapi.com/impg/At_RwThxxwYFQ6AiBy-4yZwmTb8B4RgOGwBCPA/Pd5zLdtF8WI.jpg?size=1110x782&quality=95&sign=8efa70056e96f7065988db7aedb2f25e&type=album" class="sertificate-link" width="220"
