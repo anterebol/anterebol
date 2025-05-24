@@ -11,8 +11,7 @@ I adapt layout designs into interactive interfaces.
 Deep understanding of UI/UX management and a passion for creating high-quality code.
 
 Stack of technologies I worked with:
-
-<b>JavaScript</b>, CSS, HTML, Webpack, TypeScript, React, Next.js, Redux Toolkit, React Router, Git, Node.js, GraphQL, Docker, NestJS, Jira, Confluence etc.
+<b>JavaScript</b>, <b>CSS</b>, <b>HTML</b>, <b>Webpack</b>, <b>TypeScript</b>, <b>React</b>, <b>Next.js</b>,<b>Redux Toolkit</b>, <b>React Router</b>, <b>Git</b>, <b>Node.js</b>, <b>GraphQL</b>, <b>Docker</b>, <b>NestJS</b>, <b>Jira</b>, <b>Confluence</b> etc.
 
 I'm open for opportunities.
 
