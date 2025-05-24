@@ -5,9 +5,15 @@ I'm Frontend developer from Minsk, Belarus.
 -------------------------------------------
 
 Hello, I'm Aleksey, I from Minsk, Belarus. 
-I have experience developing applications in a team. 
-I graduated from <a href="https://rs.school/" target="_blank" rel="noreferrer">The Rolling Scopes School</a> courses where I received good practical and theoretical knowledge of HTML, CSS, JS, React, NodeJs and some other technology stacks.
-I'm currently looking for a job as a Junior Frontend Developer if you have some offers I'm ready to consider them.
+Frontend developer with experience in building adaptive and user-friendly web applications using modern technologies such as React, Next.js and TypeScript. 
+I adapt layout designs into interactive interfaces. 
+Deep understanding of UI/UX management and a passion for creating high-quality code.
+
+Stack of technologies I worked with:
+JavaScript, CSS, HTML, Webpack, TypeScript, React, Next.js, Redux Toolkit, React Router, Git, Node.js, GraphQL, Docker, NestJS, Jira, Confluence etc.
+
+I'm open for opportunities.
+
 
 * 🌍  I'm based in Minsk, Belarus
 * 🖥️  See my portfolio at [CV](http://my-cv-aleksey-gorbach.netlify.app/)
