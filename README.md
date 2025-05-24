@@ -7,9 +7,7 @@ I'm Frontend developer from Minsk, Belarus.
 Hello, I'm Aleksey, I from Minsk, Belarus. 
 
 Frontend developer with experience in building adaptive and user-friendly web applications using modern technologies such as React, Next.js and TypeScript. 
-
 I adapt layout designs into interactive interfaces. 
-
 Deep understanding of UI/UX management and a passion for creating high-quality code.
 
 Stack of technologies I worked with:
